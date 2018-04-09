@@ -1,1 +1,1 @@
-# Lending-Club-Loan-Predictions
+#  Predictions of loan defaults and risks for lending club
